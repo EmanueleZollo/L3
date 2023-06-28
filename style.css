@@ -1,0 +1,64 @@
+header {
+    text-align: center;
+}
+
+main {
+    padding:0 300px;
+    width: 600px;
+    
+}
+
+footer{
+    padding:0 300px;
+}
+
+#logo {
+    height: 50px;
+}
+
+#focaccia {
+    border-radius: 15px;
+    box-shadow: 4px 4px 8px gray;
+
+}
+
+div{
+    background-color: #fefdcf;
+    border-top: 2px solid rgb(255, 238, 0);
+    height: 40px;
+    text-align: center;
+    font-size: small;
+}
+
+div p strong {
+    font-weight: bolder;
+}
+
+figcaption {
+    color: lightgray;
+    font-size: smaller;
+    padding-top: 20px;
+    text-align: center;
+}
+
+figure p {
+    border-left: solid 2px rgb(255, 238, 0);
+    color: rgb(255, 55, 0);
+    font-size: small;
+}
+
+figure p u {
+    color: #009ec4;
+}
+ol, ul {
+    line-height: 2rem;
+}
+
+ol p {
+    line-height: 14px;
+}
+
+h3{
+    padding-bottom: 10px;
+    border-bottom: solid 1px aquamarine;
+}
