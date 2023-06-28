@@ -3,23 +3,27 @@ header {
 }
 
 main {
-    padding:0 300px;
     width: 600px;
-    
+    margin: 0 auto;
 }
 
 footer{
-    padding:0 300px;
+    width: 600px;
+    margin: 0 auto;
 }
 
 #logo {
     height: 50px;
 }
 
-#focaccia {
+figure{
+    width: 600px;
+    margin: 0 auto;
+}
+
+#focaccia {    
     border-radius: 15px;
     box-shadow: 4px 4px 8px gray;
-
 }
 
 div{
